@@ -30,6 +30,7 @@
 		}
 	}
 
+ 	// You then go to your main class;
 	// You then initialize the arraylist by doing this
 
 	import import java.util.ArrayList;
