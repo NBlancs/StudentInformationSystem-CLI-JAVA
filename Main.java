@@ -36,7 +36,7 @@ public class Main {
 					ArrayList<String> studentInfo = new ArrayList<>();
 
 					System.out.println("Add the user in this format (Name, Gender, Age, Course, Year Level, and Student I.D)");
-					System.out.println("e.g: Noel Jhumel G. Blanco, Male, 20, BSIT, 2nd Year, 02230000");
+					System.out.println("e.g: Noel, Male, 20, BSIT, 2nd Year, 02230000");
 					System.out.println("========== TYPE 1 TO GO TO MAIN MENU =========\n");
 					System.out.print("Input here: ");
 					scanner.nextLine();
